@@ -1,0 +1,59 @@
+admin login add/delete post and restruants
+users login. make tital of post. comments/rate add pictures(file size and number and types). favorite restarant.
+formating api?
+yelp api.
+google map api.
+
+
+restraunt info
+
+catagories 
+fast food
+mexican
+local
+chinese
+italian
+pizza 
+seafood
+american
+bakaries
+alchohol
+delivery 
+
+
+prices. average price of menu
+
+hours/location/map/pictures/phone number/website link
+
+type breakfast lunch dinner
+
+
+user average score and number of favorates
+
+multicatagory search.
+
+
+user class
+id 
+name
+password
+user search history/ restraunts viewed
+favorite list
+post id to user id
+
+admin class 
+userclass inharited 
+add/ delete restrants/ catagreies/prices
+delete users/ comments
+add pictures
+
+restraunt class
+rating 
+search catagories 
+users comments
+price
+hours
+
+
+
+
